@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+chromiumoxide = { git = "https://github.com/mattsse/chromiumoxide", branch = "main"}
+async-std = "1.12.0"
+futures = "0.3.30"
+scraper = "0.20.0"
